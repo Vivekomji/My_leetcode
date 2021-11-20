@@ -15,6 +15,7 @@ public:
 
 
 
+
 // Optimal Approach: (Binary Search)
 
 // We will use the fact that the vector is sorted.
